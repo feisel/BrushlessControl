@@ -1,0 +1,112 @@
+Dependencies for Project 'c++Lib', Target 'Target 1': (DO NOT MODIFY !)
+F (.\main.cpp)(0x529CB007)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\main.o --omf_browse .\main.crf --depend .\main.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\lpc13.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\SSPSoftware.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\SSP.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\LPC13I2C.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\i2c.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\drivers\sensors\LM75.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\drivers\rf\rfm70.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13PWM.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\PWM.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\lpc1317.h)(0x529B2AA0)
+F (.\lpc13.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lpc13.o --omf_browse .\lpc13.crf --depend .\lpc13.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\lpc13.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\SSPSoftware.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\SSP.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\LPC13I2C.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\i2c.h)(0x529B2AA0)
+F (.\lpc13I2C.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lpc13i2c.o --omf_browse .\lpc13i2c.crf --depend .\lpc13i2c.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\lpc13I2C.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\i2c.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+F (.\Lpc13Pin.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lpc13pin.o --omf_browse .\lpc13pin.crf --depend .\lpc13pin.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+F (.\Lpc13Timer.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lpc13timer.o --omf_browse .\lpc13timer.crf --depend .\lpc13timer.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+F (.\SSPSoftware.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\sspsoftware.o --omf_browse .\sspsoftware.crf --depend .\sspsoftware.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\SSpSoftware.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\SSP.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13Timer.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Timer.h)(0x529B2AA0)
+F (.\startup_LPC13Uxx.s)(0x529B2AA0)(--cpu Cortex-M3 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx--list .\startup_lpc13uxx.lst --xref -o .\startup_lpc13uxx.o --depend .\startup_lpc13uxx.d)
+F (.\system_LPC13Uxx.c)(0x529B2AA0)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\system_lpc13uxx.o --omf_browse .\system_lpc13uxx.crf --depend .\system_lpc13uxx.d)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+F (.\Lpc13PWM.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lpc13pwm.o --omf_browse .\lpc13pwm.crf --depend .\lpc13pwm.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\Lpc13PWM.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cm3.h)(0x529B2AA0)
+I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x51C80BA4)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmInstr.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\core_cmFunc.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\cmsis\system_LPC13Uxx.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\PWM.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\lpc1317.h)(0x529B2AA0)
+F (.\drivers\sensors\LM75.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\lm75.o --omf_browse .\lm75.crf --depend .\lm75.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\drivers\sensors\LM75.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\i2c.h)(0x529B2AA0)
+F (.\drivers\rf\rfm70.cpp)(0x529B2AA0)(--cpp -c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I..\lpc13xxCodeBase --feedback=unused.txt-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC13Uxx-o .\rfm70.o --omf_browse .\rfm70.crf --depend .\rfm70.d)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\drivers\rf\rfm70.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\SSP.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\type.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Pin.h)(0x529B2AA0)
+I (C:\Users\Felix\Documents\GitHub\lpc13xxCodeBase\base\Timer.h)(0x529B2AA0)

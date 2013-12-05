@@ -1,0 +1,81 @@
+;#<FEEDBACK># ARM Linker, 5.03 [Build 76]: Last Updated: Mon Dec 02 17:06:35 2013
+;VERSION 0.2
+;FILE lm75.o
+_ZN4LM7516Read8BitRegisterEh <= USED 0
+_ZN4LM7517Read16BitRegisterEh <= USED 0
+_ZN4LM7517Write8BitRegisterEhh <= USED 0
+_ZN4LM758ReadTempEv <= USED 0
+_ZN4LM758ShutdownEb <= USED 0
+_ZN4LM75C1EP3I2Ch <= USED 0
+;FILE lpc13.o
+_ZN5Lpc1314GetSoftwareSSPEP3PinS1_S1_P5Timer <= USED 0
+_ZN5Lpc135SleepEv <= USED 0
+_ZN5Lpc136GetI2CEv <= USED 0
+__asm___9_lpc13_cpp_0b349594___Z7__REV16j <= USED 0
+__asm___9_lpc13_cpp_0b349594___Z7__REVSHi <= USED 0
+;FILE lpc13i2c.o
+__asm___12_lpc13I2C_cpp_ffe49018___Z7__REV16j <= USED 0
+__asm___12_lpc13I2C_cpp_ffe49018___Z7__REVSHi <= USED 0
+;FILE lpc13pin.o
+__asm___12_Lpc13Pin_cpp_34d41412___Z7__REV16j <= USED 0
+__asm___12_Lpc13Pin_cpp_34d41412___Z7__REVSHi <= USED 0
+;FILE lpc13pwm.o
+__asm___12_Lpc13PWM_cpp_a70711bc___Z7__REV16j <= USED 0
+__asm___12_Lpc13PWM_cpp_a70711bc___Z7__REVSHi <= USED 0
+;FILE lpc13timer.o
+__asm___14_Lpc13Timer_cpp_2d588e9d___Z7__REV16j <= USED 0
+__asm___14_Lpc13Timer_cpp_2d588e9d___Z7__REVSHi <= USED 0
+;FILE main.o
+_Z11Send_PacketR5rfm70hPKhhP5Timer <= USED 0
+_Z14Receive_PacketR5rfm70 <= USED 0
+__asm___8_main_cpp_baf53be3___Z7__REV16j <= USED 0
+__asm___8_main_cpp_baf53be3___Z7__REVSHi <= USED 0
+;FILE rfm70.o
+_ZN5rfm7010crc_lengthEh <= USED 0
+_ZN5rfm7010init_bank1Ev <= USED 0
+_ZN5rfm7010is_presentEv <= USED 0
+_ZN5rfm7011buffer_readEhPhh <= USED 0
+_ZN5rfm7011pipe_enableEhb <= USED 0
+_ZN5rfm7012buffer_writeEcPKhh <= USED 0
+_ZN5rfm7012mode_receiveEv <= USED 0
+_ZN5rfm7012mode_standbyEv <= USED 0
+_ZN5rfm7012pipe_autoackEhb <= USED 0
+_ZN5rfm7013air_data_rateEh <= USED 0
+_ZN5rfm7013mode_transmitEv <= USED 0
+_ZN5rfm7013register_readEh <= USED 0
+_ZN5rfm7014address_lengthEh <= USED 0
+_ZN5rfm7014mode_powerdownEv <= USED 0
+_ZN5rfm7014register_writeEhh <= USED 0
+_ZN5rfm7016retransmit_countEv <= USED 0
+_ZN5rfm7016transmit_addressEPKh <= USED 0
+_ZN5rfm7016transmit_messageEPKhh <= USED 0
+_ZN5rfm7017receive_next_pipeEv <= USED 0
+_ZN5rfm7018lost_packets_countEv <= USED 0
+_ZN5rfm7018lost_packets_resetEv <= USED 0
+_ZN5rfm7018receive_address_p0EPKh <= USED 0
+_ZN5rfm7018receive_address_p1EPKh <= USED 0
+_ZN5rfm7018receive_address_pnEhh <= USED 0
+_ZN5rfm7018receive_fifo_emptyEv <= USED 0
+_ZN5rfm7018transmit_fifo_fullEv <= USED 0
+_ZN5rfm7019receive_next_lengthEv <= USED 0
+_ZN5rfm7020channel_payload_sizeEhh <= USED 0
+_ZN5rfm7021transmit_message_onceEPKhh <= USED 0
+_ZN5rfm7025retransmit_delay_attemptsEhh <= USED 0
+_ZN5rfm704bankEh <= USED 0
+_ZN5rfm704initEv <= USED 0
+_ZN5rfm705powerEh <= USED 0
+_ZN5rfm706SPI_RWEh <= USED 0
+_ZN5rfm707channelEh <= USED 0
+_ZN5rfm707lna_lowEv <= USED 0
+_ZN5rfm707receiveERhPhS0_ <= USED 0
+_ZN5rfm708lna_highEv <= USED 0
+_ZN5rfm70C1EP3SSPP3PinS3_P5Timer <= USED 0
+;FILE sspsoftware.o
+_ZN11SSPSoftwareC1EP3PinS1_S1_P5Timer <= USED 0
+__asm___15_SSPSoftware_cpp_973a5434___Z7__REV16j <= USED 0
+__asm___15_SSPSoftware_cpp_973a5434___Z7__REVSHi <= USED 0
+;FILE startup_lpc13uxx.o
+;FILE system_lpc13uxx.o
+SystemCoreClockUpdate <= USED 0
+__asm___17_system_LPC13Uxx_c_5d646a67____REV16 <= USED 0
+__asm___17_system_LPC13Uxx_c_5d646a67____REVSH <= USED 0
